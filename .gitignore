@@ -1,2 +1,3 @@
-Math50_Data.csv
 *.gz
+*.csv
+!Filtered_Math50_Data.csv
